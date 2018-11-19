@@ -82,7 +82,6 @@ setup(
     ],
     install_requires=[
         "django>=1.11",
-        "jsonfield>=2.0.2"
     ],
     tests_require=[
     ],
